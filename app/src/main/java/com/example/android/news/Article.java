@@ -12,7 +12,7 @@ public class Article {
     private String datePublished;
     private String url;
 
-    public Article (String title, String section, String datePublished, String url, String author){
+    public Article(String title, String section, String datePublished, String url, String author) {
         this.title = title;
         this.section = section;
         this.datePublished = datePublished;

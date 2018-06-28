@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">News</string>
+    <string name="app_name">Art and Design News</string>
+    <string name="art_and_design">Art and Design</string>
+    <string name="long_title">This is a Long Title Placeholder To Mock a Long Title That Takes More Than One Line</string>
+    <string name="author_name">Author Name</string>
+    <string name="sample_date">Jun 27, 2018</string>
 </resources>
