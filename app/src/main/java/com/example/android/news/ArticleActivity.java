@@ -30,7 +30,7 @@ public class ArticleActivity extends AppCompatActivity implements LoaderManager.
     private ProgressBar pBar;
     private SwipeRefreshLayout swipeRefresh;
 
-    private static final String GUARDIAN_REQUEST_URL = "https://content.guardianapis.com/artanddesign?&page-size=50&show-tags=contributor&api-key=4802be1e-6ddf-4d29-9655-4dcd853a7f62";
+    private static final String GUARDIAN_REQUEST_URL = "https://content.guardianapis.com/artanddesign?&page-size=50&show-tags=contributor&api-key=test";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
